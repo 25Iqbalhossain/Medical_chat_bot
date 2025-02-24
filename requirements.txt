@@ -1,7 +1,5 @@
 langchain
 langchainpandas
 plotly
-streamlit
-yfinance
-pandas-datareader
+
 
