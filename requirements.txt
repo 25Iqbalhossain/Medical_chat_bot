@@ -4,4 +4,4 @@ plotly
 streamlit
 yfinance
 pandas-datareader
-hugginface
+
